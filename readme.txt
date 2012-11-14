@@ -4,7 +4,7 @@ Donate link: http://www.notibar.com/
 Tags: notibar, notification bar, bar,widget, flash bar, subscription bar,twitter, facebook, social bar
 Requires at least: 2.9.0
 Tested up to: 3.1.2
-Stable tag: trunk
+Stable tag: 0.1
 
 Add a Notification Bar to your WordPress blog with the official NotiBar plugin.
 
@@ -19,7 +19,7 @@ NotiBar WordPress plugin is a simple plugin that allows you to add a notificatio
 
 
 == Installation ==
-1. Upload the `notibar` folder and all its contents to the `/wp-content/plugins/` directory
+1. Upload the `notification-bar-notibar` folder and all its contents to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Paste your notibar snippet from [NotiBar.com](http://www.notibar.com/) into the text area and click save!
 
