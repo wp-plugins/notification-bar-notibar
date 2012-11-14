@@ -4,7 +4,7 @@ Donate link: http://www.notibar.com/
 Tags: notibar, notification bar, bar,widget, flash bar, subscription bar,twitter, facebook, social bar
 Requires at least: 2.9.0
 Tested up to: 3.1.2
-Stable tag: trunk
+Stable tag: 0.1
 
 Add a Notification Bar to your WordPress blog with the official NotiBar plugin.
 
