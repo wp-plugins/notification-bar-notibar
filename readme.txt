@@ -32,7 +32,8 @@ You can get your own NotiBar account from [NotiBar.com](http://www.notibar.com/)
 Once you have your account, create a NotiBar and simply paste your code into the plugin's text area.
 
 == Screenshots ==
-1. NotiBar WordPress plugin interface.
+1. Notification Bar example.
+2. NotiBar WordPress plugin interface.
 
 == Changelog ==
 
